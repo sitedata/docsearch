@@ -77,6 +77,6 @@
   "peerDependencies": {},
   "dependencies": {
     "@glidejs/glide": "^3.2.3",
-    "popper.js": "^1.14.4"
+    "popper.js": "^1.16.1"
   }
 }
